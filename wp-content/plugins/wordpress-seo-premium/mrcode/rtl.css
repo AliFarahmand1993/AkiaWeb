@@ -1,0 +1,36 @@
+.workflow > li::before {
+    right: -33px;
+    left: inherit;
+}
+.workflow > li::after {
+    right: -48px;
+    left: inherit;
+}
+.workflow {
+    margin-right: 48px;
+    margin-left: 2em;
+}
+.yoast-svg-icon-alert-info {
+    margin-left: 8px !important;
+    margin-right: 0 !important;
+}
+.yoast-button, .yoast-button-upsell, .yoast, .yst-replacevar__label, .yst-replacevar__button-insert, .yoast .h1, .yoast .h2, .yoast .h3, .yoast .h4, .yoast .h5, .yoast .h6, .yoast h1, .yoast h2, .yoast h3, .yoast h4, .yoast h5, .yoast h6 {
+    font-family: inherit !important;
+}
+.yoast .h3, .yoast h3 {
+    font-size: 18px !important;
+}
+.yoast-svg-icon-alert-warning {
+    margin-left: 8px;
+    margin-right: 0;
+}
+.yst-replacevar__button-insert{
+    margin-right: auto !important;
+    margin-left: inherit !important;
+}
+.yoast-premium-badge {
+    display: none !important;
+}
+.notice-yoast__header {
+    justify-content: right !important;
+}

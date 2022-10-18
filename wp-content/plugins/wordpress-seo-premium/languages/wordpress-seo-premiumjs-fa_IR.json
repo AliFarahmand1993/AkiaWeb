@@ -1,0 +1,550 @@
+{
+  "domain": "wordpress-seo-premium",
+  "locale_data": {
+    "wordpress-seo-premium": {
+      "": {
+        "domain": "wordpress-seo-premium"
+      },
+      "Settings": [
+        "تنظیمات"
+      ],
+      "Descriptive text": [
+        "متن توضیحات"
+      ],
+      "Show the descriptive text": [
+        "متن توضیحات را نشان دهید"
+      ],
+      "Show icon": [
+        "نمایش آیکون"
+      ],
+      "Estimated reading time:": [
+        "زمان تقریبی مطالعه:"
+      ],
+      "Yoast Estimated Reading Time": [
+        "یواست زمان خواندن تخمینی"
+      ],
+      "Shows an estimated reading time based on the content length.": [
+        "زمان مطالعه تخمینی را براساس طول محتوا نشان می دهد."
+      ],
+      "seo": [
+        "سئو"
+      ],
+      "reading time": [
+        "زمان خواندن"
+      ],
+      "content length": [
+        "طول محتوا"
+      ],
+      "minute": [
+        "دقیقه"
+      ],
+      "We could not find any relevant articles on your website that you could link to from your post.": [
+        "ما نمی توانیم در وب سایت شما مقالات مرتبطی پیدا کنیم که بتوانید از طریق پست خود به آنها لینک دهید."
+      ],
+      "Load suggestions": [
+        "پیشنهادات را بارگیری کنید"
+      ],
+      "You have disabled the Link Suggestions feature, which is needed for Related Links to work. If you want to add related links, please enable Link Suggestions in the <a>Features settings.</a>": [
+        "شما ویژگی پیوندهای پیشنهادی را که برای کار با پیوندهای مرتبط لازم است غیرفعال کرده اید. اگر می خواهید پیوندهای مرتبط اضافه کنید، لطفاً پیوندهای پیشنهادی را در اینجا فعال کنید <a>تنظیمات ویژگی ها</a>"
+      ],
+      "Refresh suggestions": [
+        "رفرش پیشنهادات"
+      ],
+      "Write list…": [
+        "نوشتن لیست..."
+      ],
+      "Adds a list of links related to this page.": [
+        "لیستی از پیوندهای مربوط به این صفحه را اضافه می کند."
+      ],
+      "internal linking": [
+        "پیوند داخلی"
+      ],
+      "site structure": [
+        "ساختار سایت"
+      ],
+      "related posts": [
+        "پست های مرتبط"
+      ],
+      "related pages": [
+        "صفحات مرتبط"
+      ],
+      "Adds a table of contents to this page.": [
+        "فهرست مطالب را به این صفحه اضافه می کند."
+      ],
+      "links": [
+        "پیوندها"
+      ],
+      "toc": [
+        "toc"
+      ],
+      "Table of contents": [
+        "فهرست مطالب"
+      ],
+      "Improve rankings for all your cornerstones by using this %1$sstep-by-step workout!%2$s": [
+        "با استفاده از این رتبه بندی را برای تمام سنگ بناهای خود بهبود ببخشید %1$sتمرین گام به گام!%2$s"
+      ],
+      "Copy link": [
+        "کپی کردن پیوند"
+      ],
+      "Copy link to suggested article: %s": [
+        "پیوند را به مقاله پیشنهادی کپی کنید: %s"
+      ],
+      "Add a title to your post for the best internal linking suggestions.": [
+        "برای بهترین پیشنهادات پیوند داخلی، عنوان خود را به پست خود اضافه کنید."
+      ],
+      "Add a metadescription to your post for the best internal linking suggestions.": [
+        "برای بهترین پیشنهادات پیوند داخلی، یک توضیح متا به پست خود اضافه کنید."
+      ],
+      "Add a title and a metadescription to your post for the best internal linking suggestions.": [
+        "برای بهترین پیشنهادات پیوند داخلی، یک عنوان و یک توضیح متا به پست خود اضافه کنید."
+      ],
+      "Also, add a title to your post for the best internal linking suggestions.": [
+        "همچنین، بهترین عنوان برای پیوندهای داخلی را به پست خود عنوان اضافه کنید."
+      ],
+      "Also, add a metadescription to your post for the best internal linking suggestions.": [
+        "همچنین، برای ارائه بهترین پیشنهادات پیوند داخلی، توضیحات متای خود را به پست خود اضافه کنید."
+      ],
+      "Also, add a title and a metadescription to your post for the best internal linking suggestions.": [
+        "همچنین، برای بهترین پیشنهادات پیوند داخلی، عنوان و توضیحات متا را به پست خود اضافه کنید."
+      ],
+      "Once you add a bit more copy, we'll give you a list of related content here to which you could link in your post.": [
+        "هنگامی که کمی اطلاعات دیگر اضافه کردید، ما در اینجا لیستی از محتوای مرتبط را به شما می دهیم که می توانید در پست خود به آن پیوند دهید."
+      ],
+      "We need to optimize your site’s SEO data so we can offer you the best %1$slinking suggestions%2$s.\n\n%3$sStart SEO Data optimization%4$s": [
+        "ما باید داده های سئو سایت شما را بهینه کنیم تا بتوانیم بهترین ها را به شما ارائه دهیم %1$sپیشنهادات پیوند دادن%2$s.\n\n%3$sبهینه سازی داده های سئو را شروع کنید%4$s"
+      ],
+      "To improve your site structure, consider linking to other relevant posts or pages on your website.": [
+        "برای بهبود ساختار سایت خود، پیوند دادن به سایر پست ها یا صفحات مرتبط در وب سایت خود را در نظر بگیرید."
+      ],
+      "It takes a few seconds to show you a list of related content to which you could link. The suggestions will be shown here as soon as we have them.": [
+        "چند ثانیه طول می کشد تا لیستی از محتوای مرتبط را که می توانید به آنها پیوند دهید، به شما نشان دهد. به محض ارائه پیشنهادات در اینجا نشان داده می شود."
+      ],
+      "{{a}}Read our guide on internal linking for SEO{{/a}} to learn more.": [
+        "{{a}}راهنمای ما در مورد پیوند داخلی برای سئو را بخوانید{{/a}} برای یادگیری بیشتر"
+      ],
+      "Copied!": [
+        "کپی شد"
+      ],
+      "Not supported!": [
+        "پشتیبانی نشده!"
+      ],
+      "New URL: {{link}}%s{{/link}}": [
+        "پیوند جدید: {{link}}%s{{/link}}"
+      ],
+      "OK": [
+        "خوبه"
+      ],
+      "Undo": [
+        "بازگشت"
+      ],
+      "Redirect created": [
+        "تغییر مسیر ایجاد شد"
+      ],
+      "%s just created a redirect from the old URL to the new URL.": [
+        "%s فقط یک هدایت از پیوند قدیمی به پیوند جدید ایجاد کرده است."
+      ],
+      "Old URL: {{link}}%s{{/link}}": [
+        "پیوند قدیمی: {{link}}%s{{/link}}"
+      ],
+      "Help on choosing the perfect keyphrase": [
+        "در انتخاب کلمه کلیدی کامل راهنمایی داشته باشید"
+      ],
+      "Help on keyphrase synonyms": [
+        "راهنما در مورد مترادف کلمات کلیدی"
+      ],
+      "Keyphrase": [
+        "عبارت کلیدی"
+      ],
+      "Synonyms": [
+        "مترادف"
+      ],
+      "Analysis results": [
+        "نتایج تجزیه و تحلیل"
+      ],
+      "Are you trying to use multiple related keyphrases? You should add them separately.": [
+        "آیا می خواهید از چندین عبارت کلیدی مرتبط استفاده کنید؟ شما باید آنها را جداگانه اضافه کنید."
+      ],
+      "Your keyphrase is too long. It can be a maximum of 191 characters.": [
+        "کلمه کلیدی شما خیلی طولانی است. حداکثر می تواند 191 نویسه باشد."
+      ],
+      "Related keyphrase": [
+        "عبارت کلیدی مرتبط"
+      ],
+      "Add related keyphrase": [
+        "اضافه کردن عبارت کلیدی مرتبط"
+      ],
+      "Enter a related keyphrase to calculate the SEO score": [
+        "برای محاسبه نمره سئو، یک عبارت کلیدی مرتبط وارد کنید"
+      ],
+      "%1$sConnect %2$s with %3$s%4$s to instantly share your published posts with 2000+ destinations such as Twitter, Facebook and more.": [
+        "%1$sاتصال %2$s همراه %3$s%4$s برای ارسال فوری پست های منتشر شده خود با 2000+ مقصد مانند توییتر، فیس بوک و موارد دیگر."
+      ],
+      "Insights": [
+        "بینش ها"
+      ],
+      "Add as related keyphrase": [
+        "عبارت کلیدی مرتبط اضافه کنید"
+      ],
+      "Added!": [
+        "اضافه شد!"
+      ],
+      "Remove": [
+        "برداشتن"
+      ],
+      "Facebook share preview": [
+        "پیش نمایش اشتراک گذاری فیس بوک"
+      ],
+      "Twitter share preview": [
+        "پیش نمایش اشتراک گذاری توییتر"
+      ],
+      "Adds a list of internal links to sibling pages which share the same parent.": [
+        "لیستی از پیوندهای داخلی را به صفحات هم خانواده اضافه می کند که از یک والد مشترک هستند."
+      ],
+      "siblings": [
+        "هم خانواده"
+      ],
+      "sibling pages": [
+        "صفحات هم خانواده"
+      ],
+      "Adds a list of internal links to subpages of this page.": [
+        "لیستی از پیوندهای داخلی را به زیرصفحه های این صفحه اضافه می کند."
+      ],
+      "subpages": [
+        "صفحه های فرعی"
+      ],
+      "childpages": [
+        "صفحات فرزند"
+      ],
+      "children": [
+        "فرزندان"
+      ],
+      "Keyphrase synonyms": [
+        "مترادف با عبارت کلیدی"
+      ],
+      "Internal linking suggestions": [
+        "پیشنهادات پیوند داخلی"
+      ],
+      "An error occurred: unfortunately our Morphology feature is not working. Please make sure you {{activateLink}}activate your subscription in MyYoast{{/activateLink}} and then {{reloadButton}}reload this page{{/reloadButton}} to make it work properly.": [
+        "خطایی روی داد: متاسفانه ویژگی مرفولوژی ما کار نمی کند. لطفا مطمئن باشید {{activateLink}}اشتراک خود را در راست چین فعال کنید{{/activateLink}} و سپس {{reloadButton}}این صفحه را مجدد بارگذاری کنید{{/reloadButton}} تا به درستی کار کند."
+      ],
+      "Estimated reading time": [
+        "زمان مطالعه تخمینی"
+      ],
+      "Learn more about estimated reading time": [
+        "درباره زمان مطالعه تخمینی بیشتر بدانید"
+      ],
+      "Copy failed": [
+        "کپی کردن ناموفق بود"
+      ],
+      "%1$s incoming links": [
+        "%1$s پیوندهای ورودی"
+      ],
+      "Edit to add link": [
+        "برای افزودن پیوند ویرایش کنید"
+      ],
+      "We didn't find any suggestions for this cornerstone article.": [
+        "ما هیچ پیشنهادی برای این مقاله سنگ بنا پیدا نکردیم."
+      ],
+      "You currently have no articles marked as cornerstone. When you mark your articles as cornerstone, we will show you link suggestions here.": [
+        "در حال حاضر هیچ مقاله ای به عنوان سنگ بنا علامت گذاری شده ندارید. وقتی مقالات خود را به عنوان سنگ بنا علامت گذاری می کنید، پیشنهادات پیوند را در اینجا به شما نشان می دهیم."
+      ],
+      "Incoming links": [
+        "پیوندهای ورودی"
+      ],
+      "Article": [
+        "مقاله"
+      ],
+      "Type": [
+        "نوع"
+      ],
+      "We were unable to find internal links on your pages. Either you haven't added any internal links to your content yet, or Yoast SEO didn't index them. You can have Yoast SEO index your links by running the SEO data optimization under SEO > Tools.": [
+        "ما قادر به یافتن پیوندهای داخلی در صفحات شما نبودیم. یا هنوز پیوند داخلی به محتوای خود اضافه نکرده اید، یا یواست سئو آنها را فهرست بندی نکرده است. با اجرای بهینه سازی داده های سئو در بخش سئو> ابزارها می توانید پیوندهای خود را با یواست سئو فهرست بندی کنید."
+      ],
+      "Please note: Your admin has disabled the cornerstone functionality in the SEO settings. If you want to use this workout, these should be enabled.": [
+        "لطفا توجه داشته باشید: مدیر شما عملکرد سنگ بنای اصلی را در تنظیمات سئو غیرفعال کرده است. اگر می خواهید از این تمرین استفاده کنید، می بایست این مورد فعال شود."
+      ],
+      "The cornerstone approach": [
+        "رویکرد اصلی سنگ بنا"
+      ],
+      "Rank with articles you want to rank with": [
+        "با مقالاتی که می خواهید با آنها رتبه بگیرید شروع کنید"
+      ],
+      "On your site you have a few articles that are %1$sthe%2$s most important. You want to rank highest in Google with these articles. At Yoast, we call these cornerstone articles. Take the following 4 steps in order to start ranking with your cornerstone articles!": [
+        "در سایت خود چند مقاله دارید که %1$sبعضی از%2$s مهم ترین آنها هستند. شما می خواهید با این مقالات رتبه بالاتری را در گوگل کسب کنید. در یواست، ما این مقالات را بنام سنگ بنامیم. برای شروع رتبه بندی با مقاله های اصلی خود، ۴ مرحله زیر را انجام دهید!"
+      ],
+      "%1$sNeed more guidance? We've covered every step in more detail in our %2$sCornerstone practical guide%3$s%4$s%5$s%6$s": [
+        "%1$sبه راهنمایی بیشتری نیاز دارید؟ ما هر مرحله را با جزئیات بیشتری در مورد آن قرار داده ایم %2$sراهنمای عملی سنگ بنا%3$s%4$s%5$s%6$s"
+      ],
+      "Start: Choose your cornerstones!": [
+        "شروع: سنگ بنای خود را انتخاب کنید!"
+      ],
+      "Your site might not feel that SEO fit just yet. But that's just a matter of time. Let's start this workout by choosing your cornerstones.": [
+        "ممکن است هنوز احساس کنید سایت شما سئو مناسبی ندارد. اما اینجا فقط مسئله زمان است. بیایید این تمرین را با انتخاب سنگ بناهای شما شروع کنیم."
+      ],
+      "SEO score": [
+        "امتیز سئو"
+      ],
+      "With which articles do you want to rank highest? Which are the most complete, which are the best explainers, which are %1$sthe%2$s most important? Check out your own website and choose the pages and posts you want to be your cornerstone articles!": [
+        "با کدام مقاله می خواهید بالاترین رتبه را کسب کنید؟ کدام یک کاملترین، کدام یک بهترین توضیح دهنده، کدام یک مهمترین هستند؟ وب سایت خود را بررسی کنید و صفحات و پست هایی را که می خواهید مقاله اصلی شما باشند انتخاب کنید!"
+      ],
+      "Readability score": [
+        "نمره خوانایی"
+      ],
+      "Mark these articles as cornerstone content": [
+        "مقالات را به عنوان محتوای سنگ بنای اصلی علامت گذاری کنید"
+      ],
+      "Surf to each one of your cornerstones on your own website. Hit %1$sedit post%2$s and go to the WordPress Backend. Mark them as cornerstones in the SEO tab of the metabox or the sidebar of Yoast SEO.": [
+        "در وب سایت خود به هر یک از سنگ های بنای خود مراجعه کنید. ویرایش پست را بزنید و وارد بخش محتوای شاخص شوید. نشانه گذاری بعنوان محتوای مهم را فعال کنید."
+      ],
+      "The cornerstone toggle as shown in the Yoast SEO metabox.": [
+        "ضامن سنگ بنای اصلی همانطور که در متاباکس یواست سئو نشان داده شده است."
+      ],
+      "Check whether your cornerstones are correct": [
+        "بررسی کنید که آیا سنگ بنای شما درست است"
+      ],
+      "Check whether the articles you’ve marked as cornerstones are the correct ones in this list:": [
+        "بررسی کنید مقالاتی که به عنوان سنگ بنای اصلی علامت گذاری کرده اید مقالات صحیح در این لیست هستند یا خیر."
+      ],
+      "Check the number of incoming internal links of your cornerstones": [
+        "تعداد پیوندهای داخلی ورودی سنگ بنای خود را بررسی کنید"
+      ],
+      "Other articles on your site should link towards your most important cornerstones. Below you can check out which articles have the most internal links pointing towards them.": [
+        "سایر مقالات در سایت شما باید به مهمترین سنگ بناهای شما پیوند دهند. در زیر می توانید بررسی کنید که کدام مقاله دارای بیشترین پیوند داخلی است که به سمت آنها هدایت می شود."
+      ],
+      "Check: do your cornerstones (★) have the most internal links pointing towards them?": [
+        "بررسی کنید: سنگ بنای خود را انجام دهید (★) بیشترین پیوندهای داخلی را به سمت خود داشته باشید؟"
+      ],
+      "Add internal links towards your cornerstones": [
+        "پیوندهای داخلی را به سمت سنگ بنای خود هدایت کنید"
+      ],
+      "If you have limited internal links pointing towards your cornerstones, add internal links from other posts to your cornerstones. But, make sure that there’s a logical relationship between the article you're linking from and your cornerstone. Below, we'll always show you the three cornerstone articles which receive the least links on your site and offer suggestions of relevant pages you could link from.": [
+        "اگر پیوندهای داخلی محدودی دارید که به سمت سنگ بناهای خود هدایت می شوند، پیوندهای داخلی سایر پست ها را به سنگ بنای خود اضافه کنید. اما، اطمینان حاصل کنید که بین مقاله ای که از آن پیوند می دهید و سنگ بنای شما رابطه منطقی وجود داشته باشد. در زیر، ما همیشه سه مقاله اساسی را به شما نشان می دهیم که کمترین پیوند را در سایت شما دریافت می کنند و پیشنهادات صفحات مربوطه را می توانید از آنجا پیوند دهید."
+      ],
+      "Go to a related article, find a relevant sentence which is related to your cornerstone article. Insert a text link to your cornerstone in that sentence. Repeat with another related article until your cornerstones have the most internal links pointing towards them.": [
+        "به یک مقاله مرتبط بروید، یک جمله مرتبط را پیدا کنید که مربوط به مقاله سنگ بنای شما باشد. پیوند متنی به سنگ بنای خود را در آن جمله وارد کنید. با یک مقاله مرتبط دیگر این کار را تکرار کنید تا سنگ بناهای شما بیشترین پیوندهای داخلی را به سمت خود داشته باشند."
+      ],
+      "Well done!": [
+        "کارتون عالی بود!"
+      ],
+      "With your internal links, you’ve shown Google which articles are most important on your website! Make sure to check regularly whether your cornerstone approach is still up to date!": [
+        "با پیوندهای داخلی خود به گوگل نشان داده اید که چه مقالاتی در وب سایت شما مهمترین هستند! حتماً مرتباً بررسی کنید که آیا سنگ بنای شما هنوز به روز است یا خیر!"
+      ],
+      "Reset this workout": [
+        "این تمرین را مجدد انجام می دهم"
+      ],
+      "I've finished this workout": [
+        "من این تمرین را تمام کردم"
+      ],
+      "Focus keyphrase": [
+        "عبارت کلیدی متمرکز"
+      ],
+      "You currently have no articles marked as cornerstone. When you mark your articles as cornerstone, they will show up here.": [
+        "شما در حال حاضر هیچ مقاله ای به عنوان سنگ بنا علامت گذاری شده ندارید. وقتی مقالات خود را به عنوان سنگ بنای اصلی علامت گذاری می کنید، در اینجا نمایش داده می شوند."
+      ],
+      "Revise this step": [
+        "در این مرحله تجدید نظر کنید"
+      ],
+      "I've finished this step": [
+        "من این مرحله را به پایان رسانده ام"
+      ],
+      "Start: Love it or leave it?": [
+        "شروع: دوستش دارید یا ترکش می کنید؟"
+      ],
+      "Your site often contains lots of content that's created once and never looked back to afterwards. It's important to go through these and ask yourself if this content is still relevant to your site. Should I improve it or remove it?": [
+        "سایت شما اغلب حاوی محتوای زیادی است که یکبار ایجاد شده و هرگز به آن نگاه نشده است. مهم است که این موارد را مرور کرده و از خود بپرسید که آیا این محتوا هنوز مربوط به سایت شما است یا خیر. آیا باید آن را بهبود دهم یا حذف کنم؟"
+      ],
+      "Should you update your article?": [
+        "آیا باید مقاله خود را به روز کنید؟"
+      ],
+      "Check if your orphaned articles are still up-to-date and update them if necessary.": [
+        "بررسی کنید که آیا مقاله های بی والد شما هنوز به روز هستند و در صورت لزوم آنها را به روز کنید."
+      ],
+      "Add internal links towards your orphaned articles.": [
+        "پیوندهای داخلی را به مقالات بی والد خود اضافه کنید."
+      ],
+      "Now it's time to add a few internal links from other posts towards your orphaned articles. Make sure there’s a logical relationship between the article you're linking from and your orphaned article. Below, we offer you suggestions of relevant pages you could link from towards your orphaned article.": [
+        "اکنون وقت آن است که چند پیوند داخلی از پست های دیگر را به مقالات بی والد خود اضافه کنید. اطمینان حاصل کنید که بین مقاله ای که از آن لینک می دهید و مقاله بی والد شما رابطه منطقی وجود دارد. در زیر، ما به شما پیشنهادات مربوط به صفحات مرتبط را می دهیم که می توانید از آنها نسبت به مقاله بی والد خود استفاده کنید."
+      ],
+      "Go to a related article, find a relevant sentence which is related to the orphaned article. Insert a text link to it in that sentence.": [
+        "به مقاله مربوطه بروید، یک جمله مرتبط را که مربوط به مقاله بی والد است پیدا کنید. یک پیوند متنی به آن در آن جمله وارد کنید."
+      ],
+      "You've cleaned up your site! You’ve removed what was no longer relevant and improved what still held value. Below is a summary of your work!": [
+        "سایت خود را تمیز کرده اید! شما مواردی را که دیگر مرتبط نبوده اید حذف کرده اید و آنچه را که هنوز ارزش دارد را بهبود بخشیده اید. در زیر خلاصه ای از کارهای شما آمده است!"
+      ],
+      "Clear summary": [
+        "خلاصه تمیزکاری"
+      ],
+      "Orphaned content": [
+        "مطالب بی والد"
+      ],
+      "Clean up your unlinked content to make sure people can find it": [
+        "محتوای پیوند نخورده خود را تمیز کنید تا مطمئن شوید افراد می توانند آن را پیدا کنند"
+      ],
+      "Orphaned content is content that doesn’t get any links from other posts or pages on your site. As a result of that, this content is hard to find, for both Google and visitors. Posts and pages need internal links to them, to fit into a site’s structure and to be findable. With this workout we'll help you update your orphaned content and make sure you have links pointing towards them!": [
+        "محتوای بی والد محتوایی است که هیچ پیوندی از پست ها یا صفحات دیگر سایت شما دریافت نمی کند. در نتیجه، یافتن این محتوا برای گوگل و بازدیدکنندگان دشوار است. پست ها و صفحات برای پیوند با ساختار سایت و یافتن آنها نیاز به پیوندهای داخلی به آنها دارند. با این تمرین ما به شما کمک می کنیم تا محتوای بی والد را به روز کنید و مطمئن شوید که پیوندهایی به آنها اشاره کرده اید درست هستند!"
+      ],
+      "%1$sNeed more guidance? We've covered every step in more detail in: %2$sHow to use the %7$s cornerstone workout%3$s%4$s%5$s.%6$s": [
+        "%1$sنیاز به راهنمایی بیشتری دارید؟ ما هر مرحله را با جزئیات بیشتری در زیر توضیح داده ایم: %2$s نحوه استفاده از %7$s تمرین سنگ بنای%3$s%4$s%5$s.%6$s"
+      ],
+      "Last Updated": [
+        "آخرین به روزرسانی"
+      ],
+      "Is it up-to-date?": [
+        "آیا به روز است؟"
+      ],
+      "You haven't selected any articles for this step yet. You can do so in the previous step.": [
+        "شما هنوز هیچ مقاله ای برای این مرحله انتخاب نکرده اید. می توانید در مرحله قبل این کار را انجام دهید."
+      ],
+      "Unknown": [
+        "ناشناس"
+      ],
+      "You've moved this article to the next step.": [
+        "شما این مقاله را به مرحله بعدی منتقل کرده اید."
+      ],
+      "We didn’t find any suggestions for this article, but of course you can still add links to articles that you think are related.": [
+        "ما هیچ پیشنهادی برای این مقاله پیدا نکردیم، اما البته شما همچنان می توانید پیوندهایی را به مقالاتی که فکر می کنید مرتبط هستند، اضافه کنید."
+      ],
+      "Loading link suggestions...": [
+        "بارگیری پیشنهادات پیوند ..."
+      ],
+      "You currently haven't selected any articles to improve. Select a few articles in the previous steps to add links to and we will show you link suggestions here.": [
+        "شما در حال حاضر هیچ مقاله ای را برای بهبود انتخاب نکرده اید. چند مقاله را در مراحل قبلی برای افزودن پیوندها انتخاب کنید و ما پیشنهادات پیوند را در اینجا به شما نشان می دهیم."
+      ],
+      "Mark as finished": [
+        "علامت گذاری به عنوان تمام شده"
+      ],
+      "Skip": [
+        "رد شدن"
+      ],
+      "You've marked this article as finished. We've added it to the summary below!": [
+        "شما این مقاله را به عنوان تمام شده علامت گذاری کرده اید. ما آن را به خلاصه زیر اضافه کرده ایم!"
+      ],
+      "Improve": [
+        "بهتر کردن"
+      ],
+      "Hide from search engines": [
+        "پنهان شدن از موتورهای جستجو"
+      ],
+      "Everything's looking good! We haven't found any articles on your site that are older than six months and receive too few links on your site. Check back here later for new cleanup suggestions!": [
+        "همه چیز خوب به نظر می رسد! ما هیچ مقاله ای در سایت شما پیدا نکرده ایم که بیش از شش ماه سن داشته باشد و پیوندهای بسیار کمی در سایت شما دریافت کند. بعداً برای پیشنهادات جدید پاکسازی به اینجا مراجعه کنید!"
+      ],
+      "You've removed this article.": [
+        "شما این مقاله را حذف کرده اید."
+      ],
+      "You've hidden this article from search engines.": [
+        "شما این مقاله را از موتورهای جستجو پنهان کرده اید."
+      ],
+      "Action": [
+        "عملیات"
+      ],
+      "Are you sure you wish to hide this article from search engines?": [
+        "آیا مطمئن هستید که می خواهید این مقاله را از موتورهای جستجو پنهان کنید؟"
+      ],
+      "Home page:": [
+        "صفحه نخست:"
+      ],
+      "Related article:": [
+        "مقاله مرتبط:"
+      ],
+      "Custom url:": [
+        "پیوند سفارشی:"
+      ],
+      "Remove and redirect": [
+        "حذف و تغییر مسیر"
+      ],
+      "Loading redirect options...": [
+        "در حال بارگیری گزینه های تغییر مسیر ..."
+      ],
+      "SEO Workout: Remove article": [
+        "تمرین سئو: حذف مقاله"
+      ],
+      "You are about to remove %1$s%2$s%3$s. To prevent 404s on your site, you should redirect it to another page on your site. Where would you like to redirect it?": [
+        "شما در حال حذف %1$s%2$s%3$s هستید. برای جلوگیری از خطای 404 در سایت ، باید آن را به صفحه دیگری در سایت خود هدایت کنید. کجا می خواهید آن را تغییر مسیر دهید?"
+      ],
+      "You haven't cleaned up or updated any articles yet using this workout. Once you do, a summary of your work will show up here.": [
+        "هنوز هیچ مقاله ای را با استفاده از این تمرین تمیز نکرده اید یا به روز نکرده اید. پس از انجام این کار، خلاصه ای از کارهای شما در اینجا نشان داده می شود."
+      ],
+      "Resolution": [
+        "تحلیل"
+      ],
+      "Improved": [
+        "بهبود یافته"
+      ],
+      "Removed": [
+        "حذف شده"
+      ],
+      "Hidden from search engines.": [
+        "پنهان از موتورهای جستجو"
+      ],
+      "Skipped": [
+        "رد شد"
+      ],
+      "Please note: For this workout to work well, you need to run the SEO data optimization tool. Admins can run this under %1$sSEO > Tools%2$s.": [
+        "لطفاً توجه داشته باشید: برای اینکه این تمرین خوب کار کند، باید ابزار بهینه سازی داده های سئو را اجرا کنید. مدیران سایت می توانند از این مسیر %1$sسئو > ابزارها%2$s قابلیت اجرا کنند."
+      ],
+      "%1$s/%2$s steps completed": [
+        "%1$s/%2$s مراحل انجام شده"
+      ],
+      "Start workout!": [
+        "تمرین را شروع کنید!"
+      ],
+      "Continue workout!": [
+        "تمرین را ادامه دهید!"
+      ],
+      "Do workout again": [
+        "دوباره تمرین کنید"
+      ],
+      "SEO Workouts": [
+        "تمرینات سئو"
+      ],
+      "Getting your site in shape and keeping it SEO fit can be challenging. Let us help you get started by taking on the most common SEO challenges, with these step by step SEO workouts.": [
+        "شکل دادن به سایت و حفظ سئو آن می تواند چالش برانگیز باشد. به ما کمک کنید با رایج ترین چالش های سئو، با این تمرینات مرحله به مرحله سئو را شروع کنید."
+      ],
+      "← Back to all workouts": [
+        "← بازگشت به تمرینات"
+      ],
+      "Some articles on your site are %1$sthe%2$s most important. They answer people's questions and solve their problems. So, they deserve to rank! At %3$s, we call these cornerstone articles. One of the ways to have them rank is to point enough links to them. More links signal to search engines that those articles are important and valuable. In this workout, we'll help you add links to your cornerstone articles!": [
+        "برخی از مقالات سایت شما %1$sجزو%2$s مهم ترین آنها هستند. آنها به سوالات مردم پاسخ می دهند و مشکلات آنها را حل می کنند. بنابراین، آنها شایسته رتبه بندی هستند! در %3$s، این مقالات را بنام سنگ بنا مینامیم. یکی از راه های رتبه بندی آنها این است که پیوندهای کافی را به آنها بدهید. پیوندهای بیشتر به موتورهای جستجو نشان می دهد که این مقالات مهم و ارزشمند هستند. در این تمرین، ما به شما کمک می کنیم پیوندهایی را به مقالات اصلی خود اضافه کنید!"
+      ],
+      "Which articles do you want to rank the highest? Which ones would your audience find the most useful and complete? Click the downward pointing arrow and look for articles that fit those criteria. We'll automatically mark the articles you select from the list as cornerstone.": [
+        "کدام مقاله را می خواهید بالاترین رتبه را کسب کنید؟ مخاطبین شما کدامیک را مفیدترین و کاملترین می دانند؟ روی فلش اشاره رو به پایین کلیک کنید و به دنبال مقالاتی باشید که با این معیارها مطابقت داشته باشند. ما به طور خودکار مقالاتی را که از لیست انتخاب می کنید به عنوان سنگ بنا علامت گذاری می کنیم."
+      ],
+      "Do all of your cornerstones have green bullets? For the best results, consider editing the ones that don't!": [
+        "آیا همه سنگ بناهای شما دارای چراغ سبز سئو هستند؟ برای بهترین نتایج، ویرایش مواردی را که چراغ سبز ندارند، در نظر بگیرید!"
+      ],
+      "Take a look at the list below. Do your cornerstones (marked with %1$s) have the most internal links pointing towards them? Click the Optimize button if you think a cornerstone needs more links. That will move the article to the next step.": [
+        "به لیست زیر نگاهی بیندازید. آیا سنگ بناهای شما (با %1$s مشخص شده اند) بیشترین پیوندهای داخلی را به خود نشان می دهند؟ اگر فکر می کنید سنگ بنای شما به پیوندهای بیشتری نیاز دارد، روی دکمه بهینه سازی کلیک کنید. با این کار مقاله به مرحله بعدی منتقل می شود."
+      ],
+      "Time to add some links! Below, you see a list with your cornerstones. Under each cornerstone, there are suggestions for articles you could add a link from. When adding the link, make sure to insert it in a relevant sentence related to your cornerstone article. Keep adding links from as many related articles as you need, until your cornerstones have the most internal links pointing towards them.": [
+        "زمان اضافه کردن چند لینک! در زیر، لیستی با سنگ بنای خود را مشاهده می کنید. در زیر هر سنگ بنایی، پیشنهاداتی برای مقالاتی وجود دارد که می توانید پیوندی از آنها اضافه کنید. هنگام افزودن پیوند، مطمئن شوید که آن را در یک جمله مربوط به مقاله سنگ بنای خود وارد کرده اید. پیوندها را از هر تعداد مقاله مرتبط که نیاز دارید اضافه کنید، تا زمانی که سنگ بنای شما بیشترین پیوندهای داخلی را به سمت آنها نشان دهد."
+      ],
+      "You just made your best content easy to find, and more likely to rank! Way to go! From time to time, remember to check if your cornerstones are getting enough links!": [
+        "شما فقط بهترین محتوای خود را به راحتی پیدا کرده اید و احتمال رتبه بندی آن بیشتر است! راهی برای رفتن! هر از گاهی، به یاد داشته باشید که بررسی کنید آیا سنگ بناهای شما پیوندهای کافی دریافت می کنند یا خیر!"
+      ],
+      "Choose cornerstone articles...": [
+        "انتخاب مقالات سنگ بنا ..."
+      ],
+      "Please note: For this workout to work well and to offer you linking suggestions, you need to run the SEO data optimization tool. Admins can run this under %1$sSEO > Tools%2$s.": [
+        "لطفاً توجه داشته باشید: برای اینکه این تمرین به خوبی کار کند و پیشنهادات پیوندی به شما ارائه دهد ، باید ابزار بهینه سازی داده های سئو را اجرا کنید. سرپرستان می توانند این را تحت %1$sسئو > ابزارها%2$s اجرا کنند."
+      ],
+      "You might not even know it, but there may be pages on your site that don't get any links. That’s an SEO issue, because it’s difficult for search engines to find pages that don't get any links. So, it's harder for them to rank. We call these pages orphaned content. In this workout, we find the orphaned content on your site and guide you in quickly adding links to it, so it can get a chance to rank!": [
+        "ممکن است شما حتی آن را ندانید، اما ممکن است صفحاتی در سایت شما وجود داشته باشد که هیچ پیوندی ندارند. این یک مسئله سئو مهم است, زیرا برای موتورهای جستجو دشوار است صفحاتی را پیدا کنند که هیچ پیوندی ندارند. بنابراین ، رتبه بندی برای آنها سخت تر است. ما این صفحات را محتوای یتیم می نامیم. در این تمرین، ما محتوای یتیم را در سایت شما پیدا می کنیم و شما را در افزودن سریع پیوندها به آن راهنمایی می کنیم، بنابراین می تواند فرصتی برای رتبه بندی پیدا کند!"
+      ],
+      "%1$sNeed more guidance? We've covered every step in more detail in the following guide: %2$sHow to use the %7$s orphaned content workout%3$s%4$s%5$s.%6$s": [
+        "%1$sنیاز به راهنمایی بیشتری دارید؟ ما در راهنمای زیر هر مرحله را با جزئیات بیشتری توضیح داده ایم: %2$s نحوه استفاده از %7$s تمرین محتوای یتیم%3$s%4$s%5$s.%6$s"
+      ],
+      "Your site may contain lots of content that you created once and never looked back to it since. It's important to go through those pages and ask yourself if that content is still relevant to your site. Should you improve it or remove it?": [
+        "سایت شما ممکن است حاوی محتوای زیادی باشد که یکبار ایجاد کرده اید و از آن زمان هرگز به آن نگاه نکرده اید. مهم است که آن صفحات را مرور کرده و از خود بپرسید که آیا هنوز هم آن محتوا مربوط به سایت شما است یا خیر. آیا باید آن را بهبود بخشید یا حذف کنید؟"
+      ],
+      "Critically examine the content in this list and make the necessary updates. If you need help updating, we have a very %1$suseful blog post that can guide you all the way%2$s (click to open in a new tab).": [
+        "محتوای موجود در این لیست را بررسی کرده و به روز رسانی های لازم را انجام دهید. اگر برای به روزرسانی به راهنمایی نیاز دارید، ما یک پست وبلاگ بسیار مهم %1$s داریم که می تواند شما را تا پایان %2$s راهنمایی کند (برای باز کردن در یک برگه جدید کلیک کنید)."
+      ],
+      "Time to add some links! Below, you see a list with your orphaned articles. Under each one, there are suggestions for related pages you could add a link from. When adding the link, make sure to insert it in a relevant sentence related to your orphaned article. Keep adding links to each of the orphaned articles until you are satisfied with the amount of links pointing to them.": [
+        "زمان اضافه کردن چند لینک! در زیر، لیستی با مقالات یتیم خود مشاهده می کنید. در زیر هر یک ، پیشنهاداتی برای صفحات مرتبط وجود دارد که می توانید پیوندی را از آنها اضافه کنید. هنگام افزودن پیوند ، مطمئن شوید که آن را در جمله مربوط به مقاله یتیم خود وارد کرده اید. پیوندها را به هر یک از مقاله های یتیم اضافه کنید تا زمانی که از میزان پیوندهای اشاره شده به آنها راضی باشید."
+      ],
+      "You've added links to your orphaned articles, and you’ve cleaned up the ones that were no longer relevant. Great job! Take a look at the summary below and celebrate what you accomplished!": [
+        "شما پیوندهایی را به مقالات یتیم خود اضافه کرده اید و مواردی را که دیگر مرتبط نیستند پاک کرده اید. کارت عالی بود! به خلاصه زیر نگاه کنید و آنچه را که انجام داده اید جشن بگیرید!"
+      ]
+    }
+  }
+}

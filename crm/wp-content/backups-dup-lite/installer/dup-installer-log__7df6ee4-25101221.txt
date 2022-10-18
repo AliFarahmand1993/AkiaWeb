@@ -1,0 +1,400 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 10:26:19
+* VERSION: 1.4.3
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.33                                |7.3.33
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2022-01-25 10:12:21
+WP VERSION__________: 5.8.3
+DUP VERSION_________: 1.4.3
+DB__________________: 5.6.41
+DB TABLES___________: 13
+DB ROWS_____________: 4,263
+DB FILE SIZE________: 1.21MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.3.33 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache
+DOC ROOT____________: "/home4/austechd/public_html/radwinweb/crm"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "https://radwinweb.com/crm/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/home4/austechd/public_html/radwinweb/crm/crm11282021_[HASH]_20220125101221_archive.zip"
+SIZE________________: 40.99MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 10:26:21 - RUNTIME: 1.9073 sec.
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/1045): Access denied for user 'austechd_crm'@'localhost' (using password: YES) [CODE:2|FILE:/home4/austechd/public_html/radwinweb/crm/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: Access denied for user 'austechd_crm'@'localhost' (using password: YES)[ERRNO:1045]
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/1045): Access denied for user 'crmrad'@'localhost' (using password: YES) [CODE:2|FILE:/home4/austechd/public_html/radwinweb/crm/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: Access denied for user 'crmrad'@'localhost' (using password: YES)[ERRNO:1045]
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/1045): Access denied for user 'austechd_crm'@'localhost' (using password: YES) [CODE:2|FILE:/home4/austechd/public_html/radwinweb/crm/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: Access denied for user 'austechd_crm'@'localhost' (using password: YES)[ERRNO:1045]
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/1045): Access denied for user 'austechd_crm'@'localhost' (using password: YES) [CODE:2|FILE:/home4/austechd/public_html/radwinweb/crm/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: Access denied for user 'austechd_crm'@'localhost' (using password: YES)[ERRNO:1045]
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/1045): Access denied for user 'austechd_crm'@'localhost' (using password: YES) [CODE:2|FILE:/home4/austechd/public_html/radwinweb/crm/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: Access denied for user 'austechd_crm'@'localhost' (using password: YES)[ERRNO:1045]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 10:34:48
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.6.41 -- Build Server: 5.6.41
+FILE SIZE:	dup-database__[HASH].sql (854.63KB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home4/austechd/public_html/radwinweb/crm/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	125
+
+wpr_commentmeta: (0)
+wpr_comments: (1)
+wpr_duplicator_packages: (0)
+wpr_links: (0)
+wpr_options: (141)
+wpr_postmeta: (3917)
+wpr_posts: (106)
+wpr_term_relationships: (1)
+wpr_term_taxonomy: (1)
+wpr_termmeta: (0)
+wpr_terms: (1)
+wpr_usermeta: (55)
+wpr_users: (3)
+Removed '37' cache/transient rows
+
+INSERT DATA RUNTIME: 0.3454 sec.
+STEP-2 COMPLETE @ 10:34:48 - RUNTIME: 0.3489 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 10:47:29
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Dynamics365"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home4/austechd/public_html/crm"
+path_new______________: "/home4/austechd/public_html/radwinweb/crm"
+siteurl_______________: "https://radwinweb.com/crm"
+url_old_______________: "http://crm.radwinweb.com"
+url_new_______________: "https://radwinweb.com/crm"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: "alifarahmand1993@gmail.com"
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wpr_commentmeta"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpr_comments"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_duplicator_packages"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpr_links"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpr_options"_____________________________________[ROWS:   141][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_postmeta"____________________________________[ROWS:  3917][PG:   2][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_posts"_______________________________________[ROWS:   106][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_term_relationships"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_term_taxonomy"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_termmeta"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpr_terms"_______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_usermeta"____________________________________[ROWS:    55][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+
+EVALUATE TABLE: "wpr_users"_______________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/austechd/public_html/crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  2:"\/home4\/austechd\/public_html\/crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  3:"%2Fhome4%2Faustechd%2Fpublic_html%2Fcrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  4:"\home4\austechd\public_html\crm" =================> "/home4/austechd/public_html/radwinweb/crm"
+	SEARCH  5:"\\home4\\austechd\\public_html\\crm" =============> "\/home4\/austechd\/public_html\/radwinweb\/crm"
+	SEARCH  6:"%5Chome4%5Caustechd%5Cpublic_html%5Ccrm" =========> "%2Fhome4%2Faustechd%2Fpublic_html%2Fradwinweb%2Fcrm"
+	SEARCH  7:"//crm.radwinweb.com" =============================> "//radwinweb.com/crm"
+	SEARCH  8:"\/\/crm.radwinweb.com" ===========================> "\/\/radwinweb.com\/crm"
+	SEARCH  9:"%2F%2Fcrm.radwinweb.com" =========================> "%2F%2Fradwinweb.com%2Fcrm"
+	SEARCH 10:"http://radwinweb.com/crm" ========================> "https://radwinweb.com/crm"
+	SEARCH 11:"http:\/\/radwinweb.com\/crm" =====================> "https:\/\/radwinweb.com\/crm"
+	SEARCH 12:"http%3A%2F%2Fradwinweb.com%2Fcrm" ================> "https%3A%2F%2Fradwinweb.com%2Fcrm"
+--------------------------------------
+SCANNED:	Tables:13 	|	 Rows:4226 	|	 Cells:18948 
+UPDATED:	Tables:4 	|	 Rows:212 	|	 Cells:214 
+ERRORS:		0 
+RUNTIME:	0.175000 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+NEW WP-ADMIN USER:
+- New username 'radwincrm' was created successfully allong with MU usermeta.
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => simple-google-recaptcha/simple-google-recaptcha.php
+    [1] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:47:29 - RUNTIME: 0.2000 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

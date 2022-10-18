@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Keyword Tool\n"
+"POT-Creation-Date: 2021-07-31 18:42+0430\n"
+"PO-Revision-Date: 2021-07-31 18:42+0430\n"
+"Last-Translator: \n"
+"Language-Team: RTLTheme <rtltheme.com@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../options-keyword-tool.php:181
+#: ../wordpress-keyword-tool/options-keyword-tool.php:181
+msgid "Keyword tool for wordpress settings"
+msgstr "ابزار کلمه کلیدی برای تنظیمات وردپرس"
+
+#: ../options-keyword-tool.php:188
+#: ../wordpress-keyword-tool/options-keyword-tool.php:188
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: ../options-keyword-tool.php:201
+#: ../wordpress-keyword-tool/options-keyword-tool.php:201
+msgid "Google Site"
+msgstr "سایت گوگل"
+
+#: ../options-keyword-tool.php:230
+msgid "Language letters"
+msgstr "زبان کلمات"
+
+#: ../options-keyword-tool.php:244
+#: ../wordpress-keyword-tool/options-keyword-tool.php:244
+msgid ""
+"Select your language from the list to get the letters if your language is "
+"not in the list add your language letters manually comma separated like a,b,"
+"c,... etc"
+msgstr ""
+"زبان خود را از لیست انتخاب کنید تا حروف را بدست آورید اگر زبان شما در لیست "
+"نیست حرف های خود را به صورت دستی با کاما از جمله a، b، c، ... و غیره اضافه "
+"کنید"
+
+#: ../options-keyword-tool.php:254
+msgid "Supported post types(comma separated) :"
+msgstr "انواع پست های پشتیبانی شده (با کاما جدا کنید):"
+
+#: ../options-keyword-tool.php:260
+#: ../wordpress-keyword-tool/options-keyword-tool.php:260
+msgid "Save options"
+msgstr "ذخیره تنظیمات"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:29 ../wp-keyword-tool.php:29
+msgid "Wordpress Keyword Tool"
+msgstr "ابزار کلمات کلیدی وردپرس"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:30 ../wp-keyword-tool.php:30
+msgid "Keyword Tool Density Check"
+msgstr "ابزار بررسی تراکم کلید واژه"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:43 ../wp-keyword-tool.php:43
+msgid "Keyword..."
+msgstr "کلمه کلیدی..."
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:44 ../wp-keyword-tool.php:44
+msgid "Search"
+msgstr "جستجو"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:54 ../wp-keyword-tool.php:54
+msgid "Check/uncheck all"
+msgstr "انتخاب/عدم انتخاب همه"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:56 ../wp-keyword-tool.php:56
+msgid "Add Tags"
+msgstr "افزودن برچسب"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:57 ../wp-keyword-tool.php:57
+msgid "Watch Density"
+msgstr "تراکم دیده شود"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:58 ../wp-keyword-tool.php:58
+msgid "Show as list"
+msgstr "نمایش به عنوان لیست"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:61 ../wp-keyword-tool.php:61
+msgid "keyword tool has found"
+msgstr "ابزار کلمه کلیدی یافت شده است"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:61 ../wp-keyword-tool.php:61
+msgid "keywords for the term"
+msgstr "کلمات کلیدی برای این اصطلاح"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:88 ../wp-keyword-tool.php:88
+msgid "Keyword"
+msgstr "کلمه کلیدی"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:88 ../wp-keyword-tool.php:88
+msgid "Density"
+msgstr "تراکم"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:101 ../wp-keyword-tool.php:101
+msgid "What should density equal?"
+msgstr "تراکم باید برابر باشد؟"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:103 ../wp-keyword-tool.php:103
+msgid "The ideal density for a single keyword is"
+msgstr "تراکم ایده آل برای یک کلمه کلیدی واحد است"
+
+#: ../wordpress-keyword-tool/wp-keyword-tool.php:117 ../wp-keyword-tool.php:117
+msgid "Keyword Tool"
+msgstr "ابزار کلید واژه"

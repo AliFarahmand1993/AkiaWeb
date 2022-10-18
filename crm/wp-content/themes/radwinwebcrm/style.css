@@ -1,0 +1,57 @@
+/*
+Theme Name: moshaver
+Theme URI: https://moshaver.com
+Author: گروه طراحان رادوین وب
+Author URI: https://radwinweb.com
+Description: این قالب بدست گروه رادوین وب و برای شرکت مشاوره تهیه شده و کلیه حقوق آن محفوظ است.
+Version: 1
+Tags: moshaver
+Text Domain: moshaver
+*/
+/*
+/*
+    1. All
+*/
+/*------------------------
+    1. All
+------------------------*/
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/iranyekan/fa/eot/iranyekanweblightfanum.eot');
+	src: url('fonts/iranyekan/fa/eot/iranyekanweblightfanum.eot') format('embedded-opentype');  /* IE6-8 */
+	src: url('fonts/iranyekan/fa/woff/iranyekanweblightfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('fonts/iranyekan/fa/ttf/iranyekanweblightfanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: iranyekanbold;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/iranyekan/fa/eot/iranyekanwebextraboldfanum.eot');
+	src: url('fonts/iranyekan/fa/eot/iranyekanwebextraboldfanum.eot') format('embedded-opentype');  /* IE6-8 */
+	src: url('fonts/iranyekan/fa/woff/iranyekanwebextraboldfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('fonts/iranyekan/fa/ttf/iranyekanwebextraboldfanum.ttf') format('truetype');
+}
+@font-face {
+	font-family: iransans;
+	font-style: normal;
+	font-weight: 300;
+	src: url('fonts/iransans/fa/eot/IRANSansWeb\(FaNum\)_Light.eot');
+	src: url('fonts/iransans/fa/eot/IRANSansWeb\(FaNum\)_Light.eot') format('embedded-opentype');  /* IE6-8 */
+	src: url('fonts/iransans/fa/woff/IRANSansWeb\(FaNum\)_Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('fonts/iransans/fa/ttf/IRANSansWeb\(FaNum\)_Light.ttf') format('truetype');
+}
+body {
+  font-size: 16px;
+  line-height: 1.8;
+  font-family: iranyekan, iransans;
+  color: #000000;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+/* body{
+    color: #000000;
+    font-family: pelak;
+    overflow-x: hidden;
+} */

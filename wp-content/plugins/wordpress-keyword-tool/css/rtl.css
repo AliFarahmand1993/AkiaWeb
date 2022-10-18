@@ -1,0 +1,7 @@
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6, body.rtl, body.rtl .press-this a.wp-switch-editor {
+    font-family: iranyekan,iransans,"B Yekan","B Zar",Arial,sans-serif !important;
+    font-family: iranyekan,byekan,yekan,tahoma !important;
+}
+#poststuff .stuffbox>h3, #poststuff h2, #poststuff h3.hndle {
+     font-family: iranyekan,byekan,yekan,tahoma !important;
+}
